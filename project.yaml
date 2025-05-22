@@ -1,5 +1,5 @@
 basic:
-    name: Herzog-Dickinson
+    name: Altenwerth-Tremblay
     environments:
         production: 'https://google.com'
         staging: ''
